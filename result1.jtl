@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1658322972107,1112,/cgi-bin/welcome.pl-1,200,OK,Thread Group 1-1,text,true,,1093,424,1,1,http://192.168.1.8:9090/cgi-bin/welcome.pl?signOff=true,996,0,199
+1658322973225,301,/cgi-bin/nav.pl-2,200,OK,Thread Group 1-1,text,true,,1716,437,1,1,http://192.168.1.8:9090/cgi-bin/nav.pl?in=home,296,0,0
+1658322973531,207,/cgi-bin/login.pl-3,200,OK,Thread Group 1-1,text,true,,858,616,1,1,http://192.168.1.8:9090/cgi-bin/login.pl,203,0,0
+1658322973739,161,/cgi-bin/login.pl-5,200,OK,Thread Group 1-1,text,true,,1154,427,1,1,http://192.168.1.8:9090/cgi-bin/login.pl?intro=true,156,0,0
+1658322973901,171,/cgi-bin/nav.pl-4,200,OK,Thread Group 1-1,text,true,,1749,432,1,1,http://192.168.1.8:9090/cgi-bin/nav.pl?page=menu&in=home,167,0,0
+1658322974073,161,/cgi-bin/welcome.pl-6,200,OK,Thread Group 1-1,text,true,,1092,444,1,1,http://192.168.1.8:9090/cgi-bin/welcome.pl?signOff=1,157,0,0
+1658322974235,164,/cgi-bin/nav.pl-7,200,OK,Thread Group 1-1,text,true,,1716,434,1,1,http://192.168.1.8:9090/cgi-bin/nav.pl?in=home,160,0,0
+1658322974478,4,Debug Sampler,200,OK,Thread Group 1-1,text,true,,374,0,1,1,null,0,0,0
